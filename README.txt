@@ -3,7 +3,7 @@ Description:
 This little tool will tell you, if any links are in your path, and it will show you any permission or owner on the way down to your file.
 
 This helps a lot in cases, where you have software running, that denies link usage in pathes. i.e. proftp, apache aso.
-It also helpts in the more common cause of wrong permissions. You do not need to check any segment by hand ;)
+It also helps in the more common cause of wrong permissions. You do not need to check any segment by hand ;)
 
 Disclaimer:
 
